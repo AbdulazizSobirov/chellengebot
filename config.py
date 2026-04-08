@@ -3,7 +3,7 @@
 # ══════════════════════════════════════════
 
 # Bot tokeni (@BotFather dan olingan)
-TOKEN = "8652643891:AAEq4m6efmfWfCAalYexpkZmIpiPWnKmnyM"
+TOKEN = "BOT_TOKEN"
 
 # Admin Telegram ID lari
 ADMINS = [6258157026]
